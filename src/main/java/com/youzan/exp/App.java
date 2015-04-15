@@ -1,4 +1,4 @@
-package com.youzan.exp;
+package com.exp.exp;
 
 public class App {
 
